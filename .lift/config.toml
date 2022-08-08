@@ -1,1 +1,4 @@
 customTools = [ ".lift/tool.sh", ".lift/markdown_tool.py" ]
+ignoreFiles = '''
+file.txt
+'''
